@@ -1,13 +1,13 @@
 const datasource = [
     {data:[
-            {key: 'a'}, //[0][0]
-            {key: 'e'}, //[0][1]
+            {key: 'a'}, // datasource[0][0]
+            {key: 'e'}, // datasource[0][1]
         ],
         title:"Vowels", bgcolor:"skyblue"},
     {data:[
-            {key: 'b'}, //[1][0]
-            {key: 'c'}, //[1][1]
-            {key: 'd'}, //[1][2]
+            {key: 'b'}, // datasource[1][0]
+            {key: 'c'}, // datasource[1][1]
+            {key: 'd'}, // datasource[1][2]
         ],
         title:"Consonants", bgcolor:"khaki"}
 ];
